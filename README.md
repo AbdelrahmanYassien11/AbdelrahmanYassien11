@@ -4,6 +4,10 @@
   <img src="https://img.shields.io/badge/SystemVerilog-blue?style=flat-square&logo=verilog">
   <img src="https://img.shields.io/badge/Verilog-de0029?style=flat-square&logo=verilog">
   <img src="https://img.shields.io/badge/VHDL-ff8330?style=flat-square&logo=verilog">
+  <img src="https://img.shields.io/badge/VHDL-581845?style=flat-square&logo=verilog">
+  <img src="https://img.shields.io/badge/UVM-900C3F?style=flat-square">
+  <img src="https://img.shields.io/badge/SVA-C70039?style=flat-square">
+  <img src="https://img.shields.io/badge/Cocotb-FF5733?style=flat-square">
   <img src="https://img.shields.io/badge/UVM-582eff?style=flat-square">
   <img src="https://img.shields.io/badge/SVA-b030ff?style=flat-square">
   <img src="https://img.shields.io/badge/Cocotb-e330ff?style=flat-square">
