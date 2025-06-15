@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm a Digital Verification Engineer</h1>
 <p align="center">
   <em>Turning logic into trust — one assertion at a time</em><br>
-  <img src="https://img.shields.io/badge/SystemVerilog-Expert-blue?style=flat-square&logo=verilog">
-  <img src="https://img.shields.io/badge/UVM-Enthusiast-green?style=flat-square">
+  <img src="https://img.shields.io/badge/SystemVerilog-blue?style=flat-square&logo=verilog">
+  <img src="https://img.shields.io/badge/UVM-green?style=flat-square">
   <img src="https://img.shields.io/badge/SVA-Assertions-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Cocotb-Python%20Driven-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Cocotb-Python-brightgreen?style=flat-square">
 </p>
 
 ---
