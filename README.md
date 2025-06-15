@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/SystemVerilog-blue?style=flat-square&logo=verilog">
   <img src="https://img.shields.io/badge/UVM-green?style=flat-square">
   <img src="https://img.shields.io/badge/SV-Assertions-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Cocotb-Python-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Cocotb-brightgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Bash Scripting-brightorange?style=flat-square">
   <img src="https://img.shields.io/badge/Python Scripting-brightyellow?style=flat-square">
 </p>
