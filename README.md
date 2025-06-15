@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Verilog-de0029?style=flat-square&logo=verilog">
   <img src="https://img.shields.io/badge/VHDL-ff8330?style=flat-square&logo=verilog">
   <img src="https://img.shields.io/badge/UVM-582eff?style=flat-square">
-  <img src="https://img.shields.io/badge/SVA-ob030ff?style=flat-square">
+  <img src="https://img.shields.io/badge/SVA-b030ff?style=flat-square">
   <img src="https://img.shields.io/badge/Cocotb-e330ff?style=flat-square">
   <img src="https://img.shields.io/badge/Makefiles-582eff?style=flat-square">
   <img src="https://img.shields.io/badge/Bash Scripting-de0029?style=flat-square">
