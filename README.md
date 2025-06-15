@@ -3,10 +3,10 @@
   <em>Turning logic into trust — one assertion at a time</em><br>
   <img src="https://img.shields.io/badge/SystemVerilog-blue?style=flat-square&logo=verilog">
   <img src="https://img.shields.io/badge/UVM-green?style=flat-square">
-  <img src="https://img.shields.io/badge/SV-Assertions-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/SVA-orange?style=flat-square">
   <img src="https://img.shields.io/badge/Cocotb-brightgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Bash Scripting-de0029?style=flat-square">
-  <img src="https://img.shields.io/badge/Python Scripting-brightyellow?style=flat-square">
+  <img src="https://img.shields.io/badge/Python Scripting-00f191?style=flat-square">
 </p>
 
 ---
