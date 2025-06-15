@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/UVM-900C3F?style=flat-square">
   <img src="https://img.shields.io/badge/SVA-C70039?style=flat-square">
   <img src="https://img.shields.io/badge/Cocotb-FF5733?style=flat-square">
+  <img src="https://img.shields.io/badge/Makefiles-FFC300?style=flat-square">
+  <img src="https://img.shields.io/badge/Bash Scripting-DAF7A6?style=flat-square">
   <img src="https://img.shields.io/badge/UVM-582eff?style=flat-square">
   <img src="https://img.shields.io/badge/SVA-b030ff?style=flat-square">
   <img src="https://img.shields.io/badge/Cocotb-e330ff?style=flat-square">
