@@ -1,22 +1,15 @@
 <h1 align="center">Hi 👋, I'm a Digital Verification Engineer</h1>
 <p align="center">
   <em>Turning logic into trust — one assertion at a time</em><br>
-  <img src="https://img.shields.io/badge/SystemVerilog-blue?style=flat-square&logo=verilog">
-  <img src="https://img.shields.io/badge/Verilog-de0029?style=flat-square&logo=verilog">
-  <img src="https://img.shields.io/badge/VHDL-ff8330?style=flat-square&logo=verilog">
-  <img src="https://img.shields.io/badge/VHDL-581845?style=flat-square&logo=verilog">
-  <img src="https://img.shields.io/badge/UVM-900C3F?style=flat-square">
-  <img src="https://img.shields.io/badge/SVA-C70039?style=flat-square">
-  <img src="https://img.shields.io/badge/Cocotb-FF5733?style=flat-square">
-  <img src="https://img.shields.io/badge/Makefiles-FFC300?style=flat-square">
-  <img src="https://img.shields.io/badge/Bash Scripting-DAF7A6?style=flat-square">
-  <img src="https://img.shields.io/badge/UVM-582eff?style=flat-square">
-  <img src="https://img.shields.io/badge/SVA-b030ff?style=flat-square">
-  <img src="https://img.shields.io/badge/Cocotb-e330ff?style=flat-square">
+  <img src="https://img.shields.io/badge/SystemVerilog-581845?style=flat-square&logo=verilog">
+  <img src="https://img.shields.io/badge/Verilog-900C3F?style=flat-square&logo=verilog">
+  <img src="https://img.shields.io/badge/VHDL-C70039?style=flat-square&logo=verilog">
+  <img src="https://img.shields.io/badge/UVM-FF5733?style=flat-square">
+  <img src="https://img.shields.io/badge/SVA-582eff?style=flat-square">
+  <img src="https://img.shields.io/badge/Cocotb-de0029?style=flat-square">
   <img src="https://img.shields.io/badge/Makefiles-582eff?style=flat-square">
-  <img src="https://img.shields.io/badge/Bash Scripting-de0029?style=flat-square">
-  <img src="https://img.shields.io/badge/Python Scripting-00c375?style=flat-square">
-  <img src="https://img.shields.io/badge/Python Scripting-582eff?style=flat-square">
+  <img src="https://img.shields.io/badge/Bash Scripting-ff8330?style=flat-square">
+  <img src="https://img.shields.io/badge/Python Scripting-b030ff?style=flat-square">
 </p>
 
 ---
