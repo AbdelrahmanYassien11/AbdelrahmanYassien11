@@ -96,9 +96,10 @@ Here are some of my recent and most relevant projects — see them all [here](ht
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/AbdelrahmanYassien11" alt="GitHub Contributions Chart" />
-</p>
+**By the Numbers**
+- 🗂️ 17+ public repositories
+- ⭐ Multiple starred projects in verification and digital design
+- 🤝 Open-source collaborator
 
 ---
 
