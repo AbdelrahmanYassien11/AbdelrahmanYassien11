@@ -97,9 +97,7 @@ Here are some of my recent and most relevant projects — see them all [here](ht
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanYassien11&show_icons=true&theme=radical" alt="Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanYassien11&theme=radical" />
+  <img src="https://ghchart.rshah.org/AbdelrahmanYassien11" alt="GitHub Contributions Chart" />
 </p>
 
 ---
