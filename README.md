@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Digital Verification Engineer</h1>
+<h1 align="center">Hi 👋, I'm Abdelrahman Yassien — Digital Verification Engineer</h1>
 <p align="center">
   <em>Turning logic into trust — one assertion at a time</em><br>
   <img src="https://img.shields.io/badge/SystemVerilog-581845?style=flat-square&logo=verilog">
@@ -14,60 +14,92 @@
 
 ---
 
-### 🚀 About Me
-- 🔍 I'm a **Digital Verification Engineer** with a deep love for catching bugs before they even think of escaping.
-- 🧠 Passionate about building **robust verification environments** using:
-  - **SystemVerilog**
-  - **SVA (SystemVerilog Assertions)**
-  - **UVM (Universal Verification Methodology)**
-  - **Cocotb** – bridging the Python world with RTL.
-- 💡 Constantly exploring new ways to improve simulation efficiency, coverage, and testbench architecture.
+## 🚀 About Me
+
+- 🧑‍💻 I'm a **Digital Verification Engineer** passionate about catching bugs before they even think of escaping.
+- 🏗️ I specialize in building **robust verification environments** using:
+  - **SystemVerilog**, **UVM (Universal Verification Methodology)**, **SVA (SystemVerilog Assertions)**
+  - **Cocotb** – bridging Python with RTL simulation
+- 🌱 I’m always learning and exploring new ways to improve simulation efficiency, coverage, and testbench architecture.
+- 🤝 Open to collaboration on open-source verification projects and digital design challenges.
 
 ---
 
-### 🔧 Tech Toolbox
-| Language | Framework | Methodology | Tools |
-|----------|-----------|-------------|-------|
-| `SystemVerilog` | `UVM` | `Constraint Random Verification` | ModelSim, QuestaSim, VCS, DVE |
-| `Python` | `Cocotb` | `Assertion-based Verification (ABV)` | Questasim |
-| `SVA` | – | Coverage-Driven Verification | VCS, Questasim |
-| `Shell scripting` | – | – | Git, Make |
-| `Python scripting` | – | – |
+## 🔧 Tech Toolbox
+
+| Language         | Framework | Methodology                        | Tools                                |
+|------------------|-----------|------------------------------------|--------------------------------------|
+| SystemVerilog    | UVM       | Constraint Random Verification     | ModelSim, QuestaSim, VCS, DVE        |
+| Python           | Cocotb    | Assertion-Based Verification (ABV) | QuestaSim, GTKWave                   |
+| SVA              | –         | Coverage-Driven Verification       | VCS, QuestaSim                       |
+| Verilog/VHDL     | –         | RTL Design & Simulation            | Vivado, Quartus, Icarus              |
+| Bash/Shell       | –         | Automation & Flow Scripting        | Git, Make, Docker                    |
+| Python scripting | –         | Test Automation, Data Analysis     | Pandas, Matplotlib                   |
 
 ---
 
-### 🧪 Projects
-Here are some verification projects I've built or contributed to:
+## 🧪 Projects
 
-- 🔹 **AMBA AHB-Lite Protocol Verification**  
-  → UVM-based testbench with full SVA coverage and constrained-random stimulus.
+Here are some of my recent and most relevant projects — see them all [here](https://github.com/AbdelrahmanYassien11?tab=repositories):
 
-- 🔹 **Synchronous FIFO Verification using Cocotb**  
-  → Python-based testbench with coverage reporting and waveform generation using GTKWave.
+- 🔹 [Verification of AMBA AHB-LITE using UVM](https://github.com/AbdelrahmanYassien11/Verification-of-AMBA-AHB-LITE-using-UVM)  
+  *UVM-based testbench, full SVA coverage, constrained-random stimulus.*
 
-- 🔹 **Custom FIFO Verification**  
-  → Implemented assertions and scoreboards, tested corner cases, injected errors for robustness.
+- 🔹 [RISC-V RV32IM Core Verification](https://github.com/AbdelrahmanYassien11/RISC-V-RV32IM-CORE)  
+  *SystemVerilog testbenches for a RISC-V CPU core (private repo).*
 
-*(More projects coming soon...)*
+- 🔹 [Verification of AMBA APB using UVM, SVA, FSMs](https://github.com/AbdelrahmanYassien11/Verification-of-AMBA-APB-using-UVM-SVA-Standardized-driving-using-FSMs)  
+  *Advanced UVM testbenches, SVA, and standardized FSM driving.*
+
+- 🔹 [Labs](https://github.com/AbdelrahmanYassien11/Labs)  
+  *A collection of verification and digital design labs.*
+
+- 🔹 [Simple Designs for FPGA Implementation](https://github.com/AbdelrahmanYassien11/Simple-designs-for-FPGA-Implementation)  
+  *Entry-level and practice designs for FPGA in Verilog.*
+
+- 🔹 [Design Usinv Verilog Revision](https://github.com/AbdelrahmanYassien11/Design_usinv_verilog_reivison)  
+  *Projects to revise and sharpen Verilog skills.*
+
+- 🔹 [Systemverilog Revision](https://github.com/AbdelrahmanYassien11/Systemverilog-revision)  
+  *Revisiting SystemVerilog, OOP, and verification concepts.*
+
+- 🔹 [UVM Hierarchy Blueprint](https://github.com/AbdelrahmanYassien11/uvm_hierarchy_blueprint)  
+  *Blueprint for efficient UVM testbench architecture.*
+
+- 🔹 [Verification of AMBA AHB using UVM & SVA](https://github.com/AbdelrahmanYassien11/Verification-of-AMBA-AHB-using-UVM-SVA)  
+  *AMBA AHB protocol verification with UVM and SVA.*
+
+*For a complete list, check [all my repositories](https://github.com/AbdelrahmanYassien11?tab=repositories).*
 
 ---
 
-### 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com) (add your real link)
-- 🧠 Let's collaborate on open-source verification projects!
+## 📢 Noteworthy
+
+- 🏅 4x GitHub repositories with multiple stars in the verification & digital design space
+- 📚 Mentored peers and contributed to collaborative verification efforts
+- 📝 Regularly update and document projects for easier onboarding and review
 
 ---
 
-### 🧠 Quote I Live By
-> *"Verification is not just testing — it's engineering trust into every gate."*
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com) *(replace with your real link)*
+- 📧 Feel free to reach out for collaborations or questions about verification, digital design, or open-source projects!
 
 ---
 
-### ✨ GitHub Stats (optional)
+## 💡 Quote I Live By
+
+> "Verification is not just testing — it's engineering trust into every gate."
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanYassien11&show_icons=true&theme=radical" alt="Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanYassien11&theme=radical" />
 </p>
 
 ---
