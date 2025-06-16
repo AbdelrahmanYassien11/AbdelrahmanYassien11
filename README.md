@@ -16,12 +16,12 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 I'm a **Digital Verification Engineer** passionate about catching bugs before they even think of escaping.
-- 🏗️ I specialize in building **robust verification environments** using:
+- 🧑‍💻 A **Digital Verification Engineer** who enjoys his work, enjoys getting better, aspires to be to be a real contributor to the field before retirment insha'allah.
+- 🏗️ Making **robust verification environments** using:
   - **SystemVerilog**, **UVM (Universal Verification Methodology)**, **SVA (SystemVerilog Assertions)**
   - **Cocotb** – bridging Python with RTL simulation
 - 🌱 I’m always learning and exploring new ways to improve simulation efficiency, coverage, and testbench architecture.
-- 🤝 Open to collaboration on open-source verification projects and digital design challenges.
+- 🤝 Open to collaboration on open-source verification projects and digital design challenges. If you're really willing to collaborate. Get in touch through my linkedin (listed down below).
 
 ---
 
@@ -30,11 +30,11 @@
 | Language         | Framework | Methodology                        | Tools                                |
 |------------------|-----------|------------------------------------|--------------------------------------|
 | SystemVerilog    | UVM       | Constraint Random Verification     | ModelSim, QuestaSim, VCS, DVE        |
-| Python           | Cocotb    | Assertion-Based Verification (ABV) | QuestaSim, GTKWave                   |
-| SVA              | –         | Coverage-Driven Verification       | VCS, QuestaSim                       |
-| Verilog/VHDL     | –         | RTL Design & Simulation            | Vivado, Quartus, Icarus              |
-| Bash/Shell       | –         | Automation & Flow Scripting        | Git, Make, Docker                    |
-| Python scripting | –         | Test Automation, Data Analysis     | Pandas, Matplotlib                   |
+| Python           | Cocotb    | Verification using Python          | QuestaSim, Icarus                    |
+| SVA              | –         | Assertion Based Verification       | VCS, QuestaSim                       |
+| Verilog/VHDL     | –         | RTL Design & Simulation            | Vivado, Quartus                      |
+| Bash/Shell       | –         | Automation & Flow Scripting        | Git, Make                            |
+| Python scripting | –         | Test Automation                    |                                      |
 
 ---
 
@@ -83,14 +83,14 @@ Here are some of my recent and most relevant projects — see them all [here](ht
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com) *(replace with your real link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-mohamad-yassien)
 - 📧 Feel free to reach out for collaborations or questions about verification, digital design, or open-source projects!
 
 ---
 
 ## 💡 Quote I Live By
 
-> "Verification is not just testing — it's engineering trust into every gate."
+> "Where there is a will, there is a way insha'allah."
 
 ---
 
@@ -104,4 +104,3 @@ Here are some of my recent and most relevant projects — see them all [here](ht
 
 ---
 
-🛠️ *Crafted with ❤️ by a Verification Engineer who still enjoys debugging race conditions.*
