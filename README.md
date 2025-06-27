@@ -12,72 +12,108 @@
   <img src="https://img.shields.io/badge/Python Scripting-b030ff?style=flat-square">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdelrahmanYassien11&color=900C3F" alt="profile views"/>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-- 🧑‍💻 A **Digital Verification Engineer** who enjoys his work, enjoys getting better, aspires to be to be a real contributor to the field before retirment insha'allah.
-- 🏗️ Making **robust verification environments** using:
+- 🧑‍💻 **Digital Verification Engineer** passionate about building robust, reliable systems.
+- 🏗️ Experienced in crafting **verification environments** with:
   - **SystemVerilog**, **UVM (Universal Verification Methodology)**, **SVA (SystemVerilog Assertions)**
   - **Cocotb** – bridging Python with RTL simulation
-- 🌱 I’m always learning and exploring new ways to improve simulation efficiency, coverage, and testbench architecture.
-- 🤝 Open to collaboration on open-source verification projects and digital design challenges. If you're really willing to collaborate. Get in touch through my linkedin
-(listed down below).
-
-![](https://komarev.com/ghpvc/?username=AbdelrahmanYassien11&color=900C3F)
----
-
-## 🔧 Tech Toolbox
-
-| Language         | Framework | Methodology                        | Tools                                |
-|------------------|-----------|------------------------------------|--------------------------------------|
-| SystemVerilog    | UVM       | Constraint Random Verification     | ModelSim, QuestaSim, VCS, DVE        |
-| Python           | Cocotb    | Verification using Python          | QuestaSim, Icarus                    |
-| SVA              | –         | Assertion Based Verification       | VCS, QuestaSim                       |
-| Verilog/VHDL     | –         | RTL Design & Simulation            | Vivado, Quartus                      |
-| Bash/Shell       | –         | Automation & Flow Scripting        | Git, Make                            |
-| Python scripting | –         | Test Automation                    |                                      |
+- 🌱 Always exploring new ways to improve simulation efficiency, coverage, and architecture.
+- 🤝 Open to collaborating on open-source verification projects and digital design challenges. Connect with me on [LinkedIn](https://www.linkedin.com/in/abdelrahman-mohamad-yassien).
 
 ---
 
-## 🧪 Projects
+## 🧰 Tech Toolbox
 
-Here are some of my recent and most relevant projects — see them all [here](https://github.com/AbdelrahmanYassien11?tab=repositories):
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Framework</th>
+    <th>Methodology</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" height="18" alt="verilog icon"/> SystemVerilog</td>
+    <td>UVM</td>
+    <td>Constraint Random Verification</td>
+    <td>ModelSim, QuestaSim, VCS, DVE</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python icon"/> Python</td>
+    <td>Cocotb</td>
+    <td>Verification using Python</td>
+    <td>QuestaSim, Icarus</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" height="18" alt="verilog icon"/> SVA</td>
+    <td>–</td>
+    <td>Assertion Based Verification</td>
+    <td>VCS, QuestaSim</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" height="18" alt="verilog icon"/> Verilog/VHDL</td>
+    <td>–</td>
+    <td>RTL Design & Simulation</td>
+    <td>Vivado, Quartus</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="18" alt="bash icon"/> Bash/Shell</td>
+    <td>–</td>
+    <td>Automation & Flow Scripting</td>
+    <td>Git, Make</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python icon"/> Python scripting</td>
+    <td>–</td>
+    <td>Test Automation</td>
+    <td>–</td>
+  </tr>
+</table>
 
-- 🔹 [Verification of AMBA AHB-LITE using UVM](https://github.com/AbdelrahmanYassien11/Verification-of-AMBA-AHB-LITE-using-UVM)  
-  *UVM-based testbench, full SVA coverage, constrained-random stimulus.*
+---
 
-- 🔹 [RISC-V RV32IM Core Verification](https://github.com/AbdelrahmanYassien11/RISC-V-RV32IM-CORE)  
-  *SystemVerilog testbenches for a RISC-V CPU core (private repo).*
+## 🧪 Featured Projects
 
-- 🔹 [Verification of AMBA APB using UVM, SVA, FSMs](https://github.com/AbdelrahmanYassien11/Verification-of-AMBA-APB-using-UVM-SVA-Standardized-driving-using-FSMs)  
-  *Advanced UVM testbenches, SVA, and standardized FSM driving.*
+Here are some recent and relevant projects. For more, see [all my repositories](https://github.com/AbdelrahmanYassien11?tab=repositories):
 
-- 🔹 [Labs](https://github.com/AbdelrahmanYassien11/Labs)  
-  *A collection of verification and digital design labs.*
+- **[Verification of AMBA AHB-LITE using UVM](https://github.com/AbdelrahmanYassien11/Verification-of-AMBA-AHB-LITE-using-UVM)**  
+  <sub>UVM-based testbench, full SVA coverage, constrained-random stimulus.</sub>
 
-- 🔹 [Simple Designs for FPGA Implementation](https://github.com/AbdelrahmanYassien11/Simple-designs-for-FPGA-Implementation)  
-  *Entry-level and practice designs for FPGA in Verilog.*
+- **[RISC-V RV32IM Core Verification](https://github.com/AbdelrahmanYassien11/RISC-V-RV32IM-CORE)**  
+  <sub>SystemVerilog testbenches for a RISC-V CPU core (private repo).</sub>
 
-- 🔹 [Design Usinv Verilog Revision](https://github.com/AbdelrahmanYassien11/Design_usinv_verilog_reivison)  
-  *Projects to revise and sharpen Verilog skills.*
+- **[Verification of AMBA APB using UVM, SVA, FSMs](https://github.com/AbdelrahmanYassien11/Verification-of-AMBA-APB-using-UVM-SVA-Standardized-driving-using-FSMs)**  
+  <sub>Advanced UVM testbenches, SVA, and standardized FSM driving.</sub>
 
-- 🔹 [Systemverilog Revision](https://github.com/AbdelrahmanYassien11/Systemverilog-revision)  
-  *Revisiting SystemVerilog, OOP, and verification concepts.*
+- **[Labs](https://github.com/AbdelrahmanYassien11/Labs)**  
+  <sub>Collection of verification and digital design labs.</sub>
 
-- 🔹 [UVM Hierarchy Blueprint](https://github.com/AbdelrahmanYassien11/uvm_hierarchy_blueprint)  
-  *Blueprint for efficient UVM testbench architecture.*
+- **[Simple Designs for FPGA Implementation](https://github.com/AbdelrahmanYassien11/Simple-designs-for-FPGA-Implementation)**  
+  <sub>Entry-level and practice designs for FPGA in Verilog.</sub>
 
-- 🔹 [Verification of AMBA AHB using UVM & SVA](https://github.com/AbdelrahmanYassien11/Verification-of-AMBA-AHB-using-UVM-SVA)  
-  *AMBA AHB protocol verification with UVM and SVA.*
+- **[Design Usinv Verilog Revision](https://github.com/AbdelrahmanYassien11/Design_usinv_verilog_reivison)**  
+  <sub>Projects to revise and sharpen Verilog skills.</sub>
 
-*For a complete list, check [all my repositories](https://github.com/AbdelrahmanYassien11?tab=repositories).*
+- **[Systemverilog Revision](https://github.com/AbdelrahmanYassien11/Systemverilog-revision)**  
+  <sub>Revisiting SystemVerilog, OOP, and verification concepts.</sub>
+
+- **[UVM Hierarchy Blueprint](https://github.com/AbdelrahmanYassien11/uvm_hierarchy_blueprint)**  
+  <sub>Blueprint for efficient UVM testbench architecture.</sub>
+  
+- **[Verification of AMBA AHB using UVM & SVA](https://github.com/AbdelrahmanYassien11/Verification-of-AMBA-AHB-using-UVM-SVA)**  
+  <sub>AMBA AHB protocol verification with UVM and SVA.</sub>
 
 ---
 
 ## 📢 Noteworthy
 
-- 🏅 4x GitHub repositories with multiple stars in the verification & digital design space
+- 🏅 Four repositories with multiple stars in the verification & digital design space
 - 📚 Mentored peers and contributed to collaborative verification efforts
 - 📝 Regularly update and document projects for easier onboarding and review
 
@@ -104,4 +140,3 @@ Here are some of my recent and most relevant projects — see them all [here](ht
 - 🤝 Open-source collaborator
 
 ---
-
