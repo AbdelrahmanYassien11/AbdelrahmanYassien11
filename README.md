@@ -21,8 +21,10 @@
   - **SystemVerilog**, **UVM (Universal Verification Methodology)**, **SVA (SystemVerilog Assertions)**
   - **Cocotb** – bridging Python with RTL simulation
 - 🌱 I’m always learning and exploring new ways to improve simulation efficiency, coverage, and testbench architecture.
-- 🤝 Open to collaboration on open-source verification projects and digital design challenges. If you're really willing to collaborate. Get in touch through my linkedin (listed down below).
+- 🤝 Open to collaboration on open-source verification projects and digital design challenges. If you're really willing to collaborate. Get in touch through my linkedin
+(listed down below).
 
+![](https://komarev.com/ghpvc/?username=AbdelrahmanYassien11&color=900C3F)
 ---
 
 ## 🔧 Tech Toolbox
