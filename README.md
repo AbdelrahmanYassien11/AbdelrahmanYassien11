@@ -12,17 +12,6 @@
   <img src="https://img.shields.io/badge/Python Scripting-b030ff?style=flat-square">
 </p>
 
-<h1 align="center">Hi 👋, I'm Abdelrahman Yassien — Digital Verification Engineer</h1>
-<p align="center">
-  <em>Turning logic into trust — one assertion at a time</em><br>
-  <img src="https://img.shields.io/badge/SystemVerilog-581845?style=flat-square&logo=verilog">
-  <img src="https://img.shields.io/badge/Verilog-900C3F?style=flat-square&logo=verilog">
-  <img src="https://img.shields.io/badge/UVM-C70039?style=flat-square&logo=verilog">
-  <img src="https://img.shields.io/badge/SVA-de0029?style=flat-square">
-  <img src="https://img.shields.io/badge/Bash Scripting-582eff?style=flat-square">
-  <img src="https://img.shields.io/badge/Do files-582eff?style=flat-square">
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdelrahmanYassien11&color=900C3F" alt="profile views"/>
 </p>
