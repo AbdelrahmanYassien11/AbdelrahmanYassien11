@@ -88,26 +88,17 @@ Here are some recent and relevant projects. For more, see [all my repositories](
 - **[RISC-V RV32IM Core Verification](https://github.com/AbdelrahmanYassien11/RISC-V-RV32IM-CORE)**  
   <sub>SystemVerilog testbenches for a RISC-V CPU core (private repo).</sub>
 
-- **[Verification of AMBA APB using UVM, SVA, FSMs](https://github.com/AbdelrahmanYassien11/Verification-of-AMBA-APB-using-UVM-SVA-Standardized-driving-using-FSMs)**  
-  <sub>Advanced UVM testbenches, SVA, and standardized FSM driving.</sub>
-
 - **[Labs](https://github.com/AbdelrahmanYassien11/Labs)**  
   <sub>Collection of verification and digital design labs.</sub>
 
 - **[Simple Designs for FPGA Implementation](https://github.com/AbdelrahmanYassien11/Simple-designs-for-FPGA-Implementation)**  
   <sub>Entry-level and practice designs for FPGA in Verilog.</sub>
 
-- **[Design Usinv Verilog Revision](https://github.com/AbdelrahmanYassien11/Design_usinv_verilog_reivison)**  
+- **[Design Using Verilog Revision](https://github.com/AbdelrahmanYassien11/Design_using_verilog_reivison)**  
   <sub>Projects to revise and sharpen Verilog skills.</sub>
 
 - **[Systemverilog Revision](https://github.com/AbdelrahmanYassien11/Systemverilog-revision)**  
   <sub>Revisiting SystemVerilog, OOP, and verification concepts.</sub>
-
-- **[UVM Hierarchy Blueprint](https://github.com/AbdelrahmanYassien11/uvm_hierarchy_blueprint)**  
-  <sub>Blueprint for efficient UVM testbench architecture.</sub>
-  
-- **[Verification of AMBA AHB using UVM & SVA](https://github.com/AbdelrahmanYassien11/Verification-of-AMBA-AHB-using-UVM-SVA)**  
-  <sub>AMBA AHB protocol verification with UVM and SVA.</sub>
 
 ---
 
