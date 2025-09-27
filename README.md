@@ -100,7 +100,7 @@ Here are some recent and relevant projects. For more, see [all my repositories](
 - **[Verification of A simple Synchronous FIFO using Cocotb (Python for RTL Verification)](https://github.com/AbdelrahmanYassien11/Design_using_verilog_reivison](https://github.com/AbdelrahmanYassien11/Verification-of-a-Simple-Synchronous-FIFO-using-Cocotb))**  
   <sub>Projects to revise and sharpen Verilog skills.</sub>
 
-  - **[Simple Designs for FPGA Implementation](https://github.com/AbdelrahmanYassien11/Simple-designs-for-FPGA-Implementation)**  
+- **[Simple Designs for FPGA Implementation](https://github.com/AbdelrahmanYassien11/Simple-designs-for-FPGA-Implementation)**  
   <sub>Entry-level and practice designs for FPGA in Verilog.</sub>
 ---
 
