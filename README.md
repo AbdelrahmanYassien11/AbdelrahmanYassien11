@@ -88,13 +88,13 @@ Here are some recent and relevant projects. For more, see [all my repositories](
 - **[RISC-V RV32IM Core Verification](https://github.com/AbdelrahmanYassien11/RISC-V-RV32IM-CORE)**  
   <sub>SystemVerilog testbenches for a RISC-V CPU core (private repo).</sub>
 
-- **[Verification of 6-bit ALU using UVM with Asynchronous Reset Agent & SVA implemented]((https://github.com/AbdelrahmanYassien11/Verification-of-6-bit-ALU-using-UVM-With-Asynchronous-Reset-Agent-SVA))**  
+- **[Verification of 6-bit ALU using UVM with Asynchronous Reset Agent & SVA implemented](https://github.com/AbdelrahmanYassien11/Verification-of-6-bit-ALU-using-UVM-With-Asynchronous-Reset-Agent-SVA)**  
   <sub>Collection of verification and digital design labs.</sub>
 
 - **[UVM_RAL & UVM_CALLBACKS Practice](https://github.com/AbdelrahmanYassien11/RAL-UVM_Callbacks-Practice)**  
   <sub>Projects to revise and sharpen Verilog skills.</sub>
 
-- **[Verification of asycnhronous FIFO using UVM & SVA]([https://github.com/AbdelrahmanYassien11/Systemverilog-revision](https://github.com/AbdelrahmanYassien11/Verification-of-an-Asynchronous-FIFO-using-UVM-SVA))**  
+- **[Verification of asycnhronous FIFO using UVM & SVA]([https://github.com/AbdelrahmanYassien11/Systemverilog-revision](https://github.com/AbdelrahmanYassien11/Verification-of-an-Asynchronous-FIFO-using-UVM-SVA)**  
   <sub>Revisiting SystemVerilog, OOP, and verification concepts.</sub>
   
 - **[Verification of A simple Synchronous FIFO using Cocotb (Python for RTL Verification)](https://github.com/AbdelrahmanYassien11/Design_using_verilog_reivison](https://github.com/AbdelrahmanYassien11/Verification-of-a-Simple-Synchronous-FIFO-using-Cocotb))**  
