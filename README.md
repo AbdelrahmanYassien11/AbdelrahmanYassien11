@@ -94,7 +94,7 @@ Here are some recent and relevant projects. For more, see [all my repositories](
 - **[UVM_RAL & UVM_CALLBACKS Practice](https://github.com/AbdelrahmanYassien11/RAL-UVM_Callbacks-Practice)**  
   <sub>Projects to revise and sharpen Verilog skills.</sub>
 
-- **[Verification of asycnhronous FIFO using UVM & SVA]([https://github.com/AbdelrahmanYassien11/Systemverilog-revision](https://github.com/AbdelrahmanYassien11/Verification-of-an-Asynchronous-FIFO-using-UVM-SVA)**  
+- **([Verification of asycnhronous FIFO using UVM & SVA](https://github.com/AbdelrahmanYassien11/Verification-of-an-Asynchronous-FIFO-using-UVM-SVA)**  
   <sub>Revisiting SystemVerilog, OOP, and verification concepts.</sub>
   
 - **[Verification of A simple Synchronous FIFO using Cocotb (Python for RTL Verification)](https://github.com/AbdelrahmanYassien11/Design_using_verilog_reivison](https://github.com/AbdelrahmanYassien11/Verification-of-a-Simple-Synchronous-FIFO-using-Cocotb))**  
